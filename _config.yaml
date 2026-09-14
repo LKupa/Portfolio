@@ -1,6 +1,6 @@
 title: Lukáš Kupa
 logo: /logo.png
-description: Jsem student technickëho lycea, toto je moje on-line portfölio.
+description: Jsem student technického lycea, toto je moje on-line portfólio.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
